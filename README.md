@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on fleet management systems at Opa Exquisite Concept Ltd.<br>- 👯 I’m looking to collaborate on open-source Web3 developer tools like Viem.<br>- 🤔 I’m looking for help with advanced gas optimization in Solidity smart contracts.<br>- 🌱 I’m currently learning Three.js for interactive 3D web animations.<br>- 💬 Ask me about React, Next.js, Node.js, and decentralized applications.<br>- ⚡ Fun fact: Built an examination timetabling system using Genetic Algorithms.<br>
+- 🔭 I’m currently working on fleet management systems at Opa Exquisite Concept Ltd.<br>- 👯 I’m looking to collaborate on open-source Web3 developer tools like Viem.<br>- <br>- 🌱 I’m currently learning Three.js for interactive 3D web animations.<br>- 💬 Ask me about React, Next.js, Node.js, and decentralized applications.<br>- ⚡ Fun fact: Built an examination timetabling system using Genetic Algorithms.<br>
 
 
 # 💻 Tech Stack:
